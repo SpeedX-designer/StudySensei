@@ -1,0 +1,5 @@
+{
+  "name": "StudySensei AI Tutor",
+  "description": "An intelligent AI tutor that analyzes your study materials (notes, textbooks, etc.) and automatically generates summaries, flashcards, and quizzes to help you learn more effectively.",
+  "requestFramePermissions": []
+}
